@@ -1,9 +1,5 @@
-# Vibe Coding CN (English)
+# en 语言包
 
-Welcome to the English version of the Vibe Coding CN repository.
-
-*This section is under construction. Content is being translated from the [Chinese version](../zh/README.md).*
-
-- [Documents](./documents/)
-- [Prompts](./prompts/)
-- [Skills](./skills/)
+- documents/: 该语言的文档与方法论
+- prompts/: 该语言的提示词资产
+- skills/: 该语言的技能与参考

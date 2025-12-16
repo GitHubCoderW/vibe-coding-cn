@@ -1,12 +1,3 @@
-# Vibe Coding CN
-
-Welcome to the Vibe Coding CN repository. Please select your language:
-
-- [**English**](./i18n/en/README.md)
-- [**简体中文**](./i18n/zh/README.md)
-
----
-
 <!--
 -------------------------------------------------------------------------------
   项目头部区域 (HEADER)
@@ -165,10 +156,10 @@ Welcome to the Vibe Coding CN repository. Please select your language:
 *   [**第三方系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 用于学习和参考其他 AI 工具的系统提示词。
 *   [**Skills 制作器**](https://github.com/yusufkaraaslan/Skill_Seekers): 可根据需求生成定制化 Skills 的工具。
 *   [**元提示词**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220): 用于生成提示词的高级提示词。
-*   [**通用项目架构模板**](./documents/Templates%20and%20Resources/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
-*   [**元技能：Skills 的 Skills**](./skills/claude-skills/SKILL.md): 用于生成 Skills 的元技能。
-*   [**tmux快捷键大全**](./documents/Tutorials%20and%20Guides/tmux快捷键大全.md): tmux 的快捷键参考文档。
-*   [**LazyVim快捷键大全**](./documents/Tutorials%20and%20Guides/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
+*   [**通用项目架构模板**](./i18n/zh/documents/Templates%20and%20Resources/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
+*   [**元技能：Skills 的 Skills**](./i18n/zh/skills/claude-skills/SKILL.md): 用于生成 Skills 的元技能。
+*   [**tmux快捷键大全**](./i18n/zh/documents/Tutorials%20and%20Guides/tmux快捷键大全.md): tmux 的快捷键参考文档。
+*   [**LazyVim快捷键大全**](./i18n/zh/documents/Tutorials%20and%20Guides/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
 *   [**二哥的Java进阶之路**](https://javabetter.cn/): 包含多种开发工具的详细配置教程。
 *   [**虚拟卡**](https://www.bybit.com/cards/?ref=YDGAVPN&source=applet_invite): 可用于注册云服务等需要国际支付的场景。
 
@@ -190,23 +181,23 @@ Welcome to the Vibe Coding CN repository. Please select your language:
     *   [Telegram 交流群](https://t.me/glue_coding)
     *   [Telegram 频道](https://t.me/tradecat_ai_channel)
 *   **个人分享**:
-    *   [我的学习经验](./documents/Methodology%20and%20Principles/学习经验.md)
-    *   [编程书籍推荐](./documents/Templates%20and%20Resources/编程书籍推荐.md)
+    *   [我的学习经验](./i18n/zh/documents/Methodology%20and%20Principles/学习经验.md)
+    *   [编程书籍推荐](./i18n/zh/documents/Templates%20and%20Resources/编程书籍推荐.md)
 *   **核心资源**:
     *   [**元提示词库**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220): 用于生成提示词的高级提示词集合。
-    *   [**元技能 (Meta-Skill)**](./skills/claude-skills/SKILL.md): 用于生成 Skills 的 Skill。
-    *   [**技能库 (Skills)**](./skills): 可直接集成的模块化技能仓库。
+    *   [**元技能 (Meta-Skill)**](./i18n/zh/skills/claude-skills/SKILL.md): 用于生成 Skills 的 Skill。
+    *   [**技能库 (Skills)**](./i18n/zh/skills): 可直接集成的模块化技能仓库。
     *   [**技能生成器**](https://github.com/yusufkaraaslan/Skill_Seekers): 将任何资料转化为 Agent 可用技能的工具。
     *   [**在线提示词数据库**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1): 包含数百个适用于各场景的用户及系统提示词的在线表格。
     *   [**第三方系统提示词仓库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 汇集了多种 AI 工具的系统提示词。
 *   **项目内部文档**:
     *   [**prompts-library 工具说明**](./libs/external/prompts-library/): 该工具支持在 Excel 和 Markdown 格式之间转换提示词，并包含数百个精选提示词。
-    *   [**coding_prompts 集合**](./prompts/coding_prompts/): 适用于 Vibe Coding 流程的专用提示词。
-    *   [**系统提示词构建原则**](./documents/Methodology%20and%20Principles/系统提示词构建原则.md): 关于如何构建高效、可靠的 AI 系统提示词的综合指南。
-    *   [**开发经验总结**](./documents/Methodology%20and%20Principles/开发经验.md): 包含变量命名、文件结构、编码规范、架构原则等实践经验。
-    *   [**通用项目架构模板**](./documents/Templates%20and%20Resources/通用项目架构模板.md): 提供多种项目类型的标准目录结构与最佳实践。
-    *   [**Augment MCP 配置文档**](./documents/Tutorials%20and%20Guides/auggie-mcp配置文档.md): Augment 上下文引擎的详细配置说明。
-    *   [**system_prompts 集合**](./prompts/system_prompts/): 用于指导 AI 开发的系统提示词，包含多个版本的开发规范与思维框架。
+    *   [**coding_prompts 集合**](./i18n/zh/prompts/coding_prompts/): 适用于 Vibe Coding 流程的专用提示词。
+    *   [**系统提示词构建原则**](./i18n/zh/documents/Methodology%20and%20Principles/系统提示词构建原则.md): 关于如何构建高效、可靠的 AI 系统提示词的综合指南。
+    *   [**开发经验总结**](./i18n/zh/documents/Methodology%20and%20Principles/开发经验.md): 包含变量命名、文件结构、编码规范、架构原则等实践经验。
+    *   [**通用项目架构模板**](./i18n/zh/documents/Templates%20and%20Resources/通用项目架构模板.md): 提供多种项目类型的标准目录结构与最佳实践。
+    *   [**Augment MCP 配置文档**](./i18n/zh/documents/Tutorials%20and%20Guides/auggie-mcp配置文档.md): Augment 上下文引擎的详细配置说明。
+    *   [**system_prompts 集合**](./i18n/zh/prompts/system_prompts/): 用于指导 AI 开发的系统提示词，包含多个版本的开发规范与思维框架。
 
 ---
 
@@ -226,7 +217,7 @@ Welcome to the Vibe Coding CN repository. Please select your language:
 ├── AGENTS.md                    # AI 代理相关的文档或配置。
 ├── CLAUDE.md                    # AI 助手的核心行为准则或配置。
 │
-├── documents/                   # 存放各类说明文档、经验总结和配置详细说明。
+├── i18n/zh/documents/           # 存放各类说明文档、经验总结和配置详细说明。
 │   ├── Methodology and Principles/ # 方法论与原则
 │   ├── Templates and Resources/    # 模板与资源
 │   └── Tutorials and Guides/       # 教程与指南
@@ -249,7 +240,7 @@ Welcome to the Vibe Coding CN repository. Please select your language:
 │       │   └── ... (其他 prompts-library 内部文件)
 │       └── XHS-image-to-PDF-conversion/ # 小红书图片转PDF工具。
 │
-├── prompts/                     # 集中存放所有类型的 AI 提示词。
+├── i18n/zh/prompts/             # 集中存放所有类型的 AI 提示词。
 │   ├── assistant_prompts/       # 辅助类提示词。
 │   ├── coding_prompts/          # 专门用于编程和代码生成相关的提示词集合。
 │   │   └── ... (具体编程提示词文件)
@@ -262,7 +253,7 @@ Welcome to the Vibe Coding CN repository. Please select your language:
 │       ├── 数据管道.md            # 数据管道处理提示词。
 │       └── ... (其他用户提示词)
 │
-├── skills/                      # 集中存放所有类型的 skills 技能。
+├── i18n/zh/skills/              # 集中存放所有类型的 skills 技能。
     ├── claude-skills            # 生成 SKILL 的元 SKILL
     │   ├── SKILL.md
     │   └── ... (其他)
@@ -276,20 +267,19 @@ Welcome to the Vibe Coding CN repository. Please select your language:
 一句话：Vibe Coding = **规划驱动 + 上下文固定 + AI 结对执行**，让「从想法到可维护代码」变成一条可审计的流水线，而不是一团无法迭代的巨石文件。
 
 **你能得到**
-- 成体系的提示词工具链：`prompts/system_prompts/` 约束 AI 行为边界，`prompts/coding_prompts/` 提供需求澄清、计划、执行的全链路脚本。
+- 成体系的提示词工具链：`i18n/zh/prompts/system_prompts/` 约束 AI 行为边界，`i18n/zh/prompts/coding_prompts/` 提供需求澄清、计划、执行的全链路脚本。
 - 闭环交付路径：需求 → 上下文文档 → 实施计划 → 分步实现 → 自测 → 进度记录，全程可复盘、可移交。
 
 ## ⚙️ 架构与工作流程
 
 核心资产映射：
 ```
-prompts/
+i18n/zh/prompts/
   coding_prompts/        # 需求澄清、计划、执行链的核心提示词
   system_prompts/        # 约束 AI 行为边界的系统级提示词
   assistant_prompts/     # 辅助/配合型提示
   user_prompts/          # 可复用的用户侧提示词
-  prompts-library/       # Excel↔Markdown 提示词转换与索引工具
-documents/
+i18n/zh/documents/
   Templates and Resources/代码组织.md, Templates and Resources/通用项目架构模板.md, Methodology and Principles/开发经验.md, Methodology and Principles/系统提示词构建原则.md 等知识库
 backups/
   一键备份.sh, 快速备份.py  # 本地/远端快照脚本
@@ -333,11 +323,11 @@ graph TB
   end
 
   subgraph consume_layer[执行与消费层]
-    artifacts_md --> catalog_coding[prompts/coding_prompts]
-    artifacts_md --> catalog_system[prompts/system_prompts]
-    artifacts_md --> catalog_assist[prompts/assistant_prompts]
-    artifacts_md --> catalog_user[prompts/user_prompts]
-    artifacts_md --> docs_repo[documents/*]
+    artifacts_md --> catalog_coding[i18n/zh/prompts/coding_prompts]
+    artifacts_md --> catalog_system[i18n/zh/prompts/system_prompts]
+    artifacts_md --> catalog_assist[i18n/zh/prompts/assistant_prompts]
+    artifacts_md --> catalog_user[i18n/zh/prompts/user_prompts]
+    artifacts_md --> docs_repo[i18n/zh/documents/*]
     artifacts_md --> new_consumer[预留：其他下游渠道]
     catalog_coding --> ai_flow[AI 结对编程流程]
     ai_flow --> deliverables[项目上下文 / 计划 / 代码产出]
