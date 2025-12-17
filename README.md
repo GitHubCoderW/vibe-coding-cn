@@ -68,10 +68,12 @@
   <a href="./libs/external/prompts-library/prompt_docs/"><img src="https://img.shields.io/badge/提示词-大全-orange?style=for-the-badge" alt="提示词大全"></a>
   <a href="https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1"><img src="https://img.shields.io/badge/提示词-在线表格(推荐)-blue?style=for-the-badge" alt="提示词在线表格（推荐）"></a>
   <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"><img src="https://img.shields.io/badge/系统提示词-仓库-slateblue?style=for-the-badge" alt="系统提示词仓库"></a>
+  <a href="./i18n/zh/documents/从零开始vibecoding/"><img src="https://img.shields.io/badge/🚀_从零开始-新手入门-red?style=for-the-badge" alt="从零开始"></a>
 </p>
 
 [📚 相关文档](#-相关文档与资源)
-[🚀 入门指南](#-入门指南)
+[🚀 从零开始](#-从零开始)
+[🎯 入门指南](#-入门指南)
 [⚙️ 完整设置流程](#️-完整设置流程)
 [📞 联系方式](#-联系方式)
 [✨ 支持项目](#-支持项目)
@@ -80,6 +82,16 @@
 本仓库的 AI 解读链接：[zread.ai/tukuaiai/vibe-coding-cn](https://zread.ai/tukuaiai/vibe-coding-cn/1-overview)
 
 </div>
+
+---
+
+## 🚀 从零开始
+
+完全新手？按顺序完成以下步骤：
+
+1. [01-网络环境配置](./i18n/zh/documents/从零开始vibecoding/01-网络环境配置.md) - 配置网络访问
+2. [02-开发环境搭建](./i18n/zh/documents/从零开始vibecoding/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
+3. [03-IDE配置](./i18n/zh/documents/从零开始vibecoding/03-IDE配置.md) - 配置 VS Code 编辑器
 
 ---
 
@@ -428,14 +440,7 @@ gantt
 
 ---
 
-## 🚀 入门指南
-
-### 🆕 完全新手？从这里开始！
-
-1. [01-网络环境配置](./i18n/zh/documents/从零开始vibecoding/01-网络环境配置.md) - 配置网络访问
-2. [02-开发环境搭建](./i18n/zh/documents/从零开始vibecoding/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
-
-### 已有开发环境？
+## 🎯 入门指南
 
 要开始 Vibe Coding，你只需要以下两种工具之一：
 - **Claude Opus 4.5**，在 Claude Code 中使用

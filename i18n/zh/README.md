@@ -421,6 +421,7 @@ gantt
 
 1. [01-网络环境配置](./documents/从零开始vibecoding/01-网络环境配置.md) - 配置网络访问
 2. [02-开发环境搭建](./documents/从零开始vibecoding/02-开发环境搭建.md) - 复制提示词给 AI，让 AI 指导你搭建环境
+3. [03-IDE配置](./documents/从零开始vibecoding/03-IDE配置.md) - 配置 VS Code 编辑器
 
 ### 已有开发环境？
 

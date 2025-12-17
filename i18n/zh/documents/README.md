@@ -10,7 +10,8 @@ i18n/zh/documents/
 │
 ├── 从零开始vibecoding/          # 🚀 新手入门必读
 │   ├── 01-网络环境配置.md
-│   └── 02-开发环境搭建.md
+│   ├── 02-开发环境搭建.md
+│   └── 03-IDE配置.md
 │
 ├── 方法论与原则/
 │   ├── A Formalization of Recursive Self-Optimizing Generative Systems.md
@@ -44,6 +45,7 @@ i18n/zh/documents/
 
 *   [01-网络环境配置](./从零开始vibecoding/01-网络环境配置.md) - 配置网络访问
 *   [02-开发环境搭建](./从零开始vibecoding/02-开发环境搭建.md) - 搭建开发环境（提示词版）
+*   [03-IDE配置](./从零开始vibecoding/03-IDE配置.md) - 配置 VS Code 编辑器
 
 ### 方法论与原则
 
